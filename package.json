@@ -2,10 +2,16 @@
     "name": "vetswhocode-extension-pack",
     "displayName": "VetsWhoCode Extension Pack",
     "description": "Exstension Pack for new veterans learning javascript at #VetsWhoCode",
+    "publisher": "VetsWhoCode",
+    "repository": "https://github.com/jeromehardaway/vetswhocode-extension-pack",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
     },
+    "galleryBanner": {
+        "color": "#091f40"
+    },
+    "icon": "vwc.jpg",
     "categories": [
         "Extension Packs"
     ],
