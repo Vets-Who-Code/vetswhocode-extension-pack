@@ -1,0 +1,26 @@
+{
+    "name": "vetswhocode-extension-pack",
+    "displayName": "VetsWhoCode Extension Pack",
+    "description": "Exstension Pack for new veterans learning javascript at #VetsWhoCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "eamodio.gitlens",
+        "esbenp.prettier-vscode",
+        "baeumer.vscode-eslint",
+        "ritwickdey.LiveServer",
+        "msjsdiag.debugger-for-chrome",
+        "CoenraadS.bracket-pair-colorizer",
+        "christian-kohler.path-intellisense",
+        "waderyan.gitblame",
+        "WallabyJs.quokka-vscode",
+        "MS-vsliveshare.vsliveshare-pack",
+        "deerawan.vscode-dash",
+        "jawandarajbir.react-vscode-extension-pack"
+    ]
+}
