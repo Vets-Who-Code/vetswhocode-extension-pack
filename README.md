@@ -1,15 +1,5 @@
-# README
+# Vets Who Code Extension Pack
 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
-# vetswhocode-extension-pack
+<p align="center>
+    One of the things I am always trying to do is find a way to make it easier for our students to learn how to code, and one way to do that is making the tools they use easier to find. So instead of sending them a list of plugins to download I want build a plugin that can grow that we add stuff to so that they can be prepared. Part of being a master educator is flattening the curve of learning to help others get to where you were faster. If you think there should be something added lets start a github discussion about it and if you appreciate things like this being built for our veterans don't hesitate to sponsor us on github.
+</p>
