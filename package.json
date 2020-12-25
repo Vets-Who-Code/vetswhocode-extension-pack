@@ -1,7 +1,7 @@
 {
     "name": "vetswhocode-extension-pack",
     "displayName": "VetsWhoCode Extension Pack",
-    "description": "Exstension Pack for new veterans learning javascript at #VetsWhoCode",
+    "description": "Extension Pack for new veterans learning JavScript at #VetsWhoCode",
     "publisher": "VetsWhoCode",
     "repository": "https://github.com/Vets-Who-Code/vetswhocode-extension-pack",
     "version": "0.0.1",
