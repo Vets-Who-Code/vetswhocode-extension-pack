@@ -3,7 +3,7 @@
     "displayName": "VetsWhoCode Extension Pack",
     "description": "Exstension Pack for new veterans learning javascript at #VetsWhoCode",
     "publisher": "VetsWhoCode",
-    "repository": "https://github.com/jeromehardaway/vetswhocode-extension-pack",
+    "repository": "https://github.com/Vets-Who-Code/vetswhocode-extension-pack",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.52.0"
