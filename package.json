@@ -28,6 +28,8 @@
         "MS-vsliveshare.vsliveshare-pack",
         "deerawan.vscode-dash",
         "jawandarajbir.react-vscode-extension-pack",
-        "hediet.vscode-drawio"
+        "hediet.vscode-drawio",
+        "softwaredotcom.swdc-vscode",
+        "mhutchie.git-graph"
     ]
 }
