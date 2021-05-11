@@ -27,6 +27,10 @@
         "WallabyJs.quokka-vscode",
         "MS-vsliveshare.vsliveshare-pack",
         "deerawan.vscode-dash",
-        "jawandarajbir.react-vscode-extension-pack"
+        "jawandarajbir.react-vscode-extension-pack",
+        "hediet.vscode-drawio",
+        "softwaredotcom.swdc-vscode",
+        "mhutchie.git-graph",
+        "yzhang.markdown-all-in-one"
     ]
 }
