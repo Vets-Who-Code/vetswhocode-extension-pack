@@ -27,6 +27,8 @@
         "WallabyJs.quokka-vscode",
         "MS-vsliveshare.vsliveshare-pack",
         "deerawan.vscode-dash",
-        "jawandarajbir.react-vscode-extension-pack"
+        "jawandarajbir.react-vscode-extension-pack",
+        "evondev.evondev-snippet",
+        "mhutchie.git-graph"
     ]
 }
