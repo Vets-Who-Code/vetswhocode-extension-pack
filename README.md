@@ -18,7 +18,13 @@ One of the things I am always trying to do is find a way to make it easier for o
     -React-VSCode-extension-pack
     -Drawio
     -Markdown All in One
-
+    -Axe Accessibility Linter
+    -Bookmarks
+    -DotENV
+    -Sort JSON objects
+    -Thunder Client
+    -CSS Peek
+    -JavaScript Booster
 
 
 ## Contribute
