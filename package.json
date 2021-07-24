@@ -32,6 +32,13 @@
         "softwaredotcom.swdc-vscode",
         "mhutchie.git-graph",
         "yzhang.markdown-all-in-one",
-        "evondev.evondev-snippet"
+        "evondev.evondev-snippet",
+        "deque-systems.vscode-axe-linter",
+        "alefragnani.Bookmarks",
+        "mikestead.dotenv",
+        "richie5um2.vscode-sort-json",
+        "rangav.vscode-thunder-client",
+        "pranaygp.vscode-css-peek",
+        "sburg.vscode-javascript-booster"
     ]
 }
