@@ -4,27 +4,28 @@ One of the things I am always trying to do is find a way to make it easier for o
 
 
 ## Extensions included in the VetsWhoCode Pack:
-    -Gitlens
-    -Prettier
-    -ESLint
-    -LiveServer
-    -Debugger for Chrome
-    -Bracket Pair Colorizer
-    -Path-Intellisense
-    -Gitblame
-    -Quokka
-    -VSLiveShare Pack
-    -VSCode-Dash
-    -React-VSCode-extension-pack
-    -Drawio
-    -Markdown All in One
+    -Alphabetical Sorter
     -Axe Accessibility Linter
     -Bookmarks
+    -Bracket Pair Colorizer
+    -CSS Peek
+    -Debugger for Chrome
     -DotENV
+    -Drawio
+    -ESLint
+    -Gitblame
+    -Gitlens
+    -JavaScript Booster
+    -LiveServer
+    -Markdown All in One
+    -Path-Intellisense
+    -Prettier
+    -Quokka
+    -React-VSCode-extension-pack
     -Sort JSON objects
     -Thunder Client
-    -CSS Peek
-    -JavaScript Booster
+    -VSCode-Dash
+    -VSLiveShare Pack
 
 
 ## Contribute
