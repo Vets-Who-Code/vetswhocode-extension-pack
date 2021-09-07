@@ -7,7 +7,6 @@ One of the things I am always trying to do is find a way to make it easier for o
     -Alphabetical Sorter
     -Axe Accessibility Linter
     -Bookmarks
-    -Bracket Pair Colorizer
     -CSS Peek
     -Debugger for Chrome
     -DotENV
