@@ -8,7 +8,6 @@ One of the things I am always trying to do is find a way to make it easier for o
     -Axe Accessibility Linter
     -Bookmarks
     -CSS Peek
-    -Debugger for Chrome
     -DotENV
     -Drawio
     -ESLint
