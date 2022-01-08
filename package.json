@@ -18,6 +18,7 @@
     "extensionPack": [
         "alefragnani.Bookmarks",
         "baeumer.vscode-eslint",
+        "breaking-point.vsc-postman",
         "christian-kohler.path-intellisense",
         "deerawan.vscode-dash",
         "deque-systems.vscode-axe-linter",
