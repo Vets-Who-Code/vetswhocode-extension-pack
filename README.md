@@ -23,6 +23,7 @@ One of the things I am always trying to do is find a way to make it easier for o
     -Sort JSON objects
     -Thunder Client
     -VSCode-Dash
+    -VS Code Postman
     -VSLiveShare Pack
 
 
