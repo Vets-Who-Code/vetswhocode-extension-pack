@@ -20,6 +20,7 @@ One of the things I am always trying to do is find a way to make it easier for o
     -Prettier
     -Quokka
     -React-VSCode-extension-pack
+    -Remote - WSL
     -Sort JSON objects
     -Thunder Client
     -VSCode-Dash
