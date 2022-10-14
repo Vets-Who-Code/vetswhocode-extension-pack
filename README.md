@@ -11,21 +11,20 @@ One of the things I am always trying to do is find a way to make it easier for o
     -DotENV
     -Drawio
     -ESLint
-    -Gitblame
-    -Gitlens
+    -Git Blame
+    -Git Lens
     -JavaScript Booster
-    -LiveServer
+    -Live Server
     -Markdown All in One
-    -Path-Intellisense
     -Prettier
     -Quokka
     -React-VSCode-extension-pack
     -Remote - WSL
     -Sort JSON objects
     -Thunder Client
-    -VSCode-Dash
+    -VSCode Dash
     -VS Code Postman
-    -VSLiveShare Pack
+    -Live Share Extension Pack
 
 
 ## Contribute
