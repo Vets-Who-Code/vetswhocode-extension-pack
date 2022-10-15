@@ -16,6 +16,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "adpyke.codesnap",
         "alefragnani.Bookmarks",
         "baeumer.vscode-eslint",
         "breaking-point.vsc-postman",
