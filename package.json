@@ -1,10 +1,10 @@
 {
     "name": "vetswhocode-extension-pack",
     "displayName": "VetsWhoCode Extension Pack",
-    "description": "Extension Pack for new veterans learning JavScript at #VetsWhoCode",
+    "description": "Extension Pack for new veterans learning JavaScript at #VetsWhoCode",
     "publisher": "VetsWhoCode",
     "repository": "https://github.com/Vets-Who-Code/vetswhocode-extension-pack",
-    "version": "2.1.0",
+    "version": "3.0.0",
     "engines": {
         "vscode": "^1.52.0"
     },
@@ -37,6 +37,15 @@
         "ue.alphabetical-sorter",
         "waderyan.gitblame",
         "WallabyJs.quokka-vscode",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "GitHub.copilot",
+        "msjsdiag.debugger-for-chrome",
+        "formulahendry.auto-rename-tag",
+        "dsznajder.es7-react-js-snippets",
+        "humao.rest-client",
+        "johnpapa.vscode-peacock",
+        "bierner.markdown-mermaid",
+        "ms-azuretools.vscode-docker",
+        "GitHub.vscode-pull-request-github"
     ]
 }
